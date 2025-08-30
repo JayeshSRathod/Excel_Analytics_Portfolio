@@ -30,10 +30,10 @@ To analyze sales trends, identify high-performing regions, and uncover opportuni
 
 ## 📸 Preview
 
-![Dashboard Preview](Retail_Sales_Dashboard/dashboard_preview.png)
+![Dashboard Preview](Excel_Analytics_Portfolio/Excel_dashboard1/dashboard_preview.png)
 
 ## 📂 File
 
-- 📂 [Download the Excel Dashboard](Retail_Sales_Dashboard.xlsx)
+[Download the Excel Dashboard](Excel_Analytics_Portfolio/Excel_dashboard1/Retail_Sales_Dashboard.xlsx)
 
 ---
